@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://janemayfield2000.github.io/mysite/sitemap.xml
+Sitemap: https://janemayfield2000.github.io/listingbott/sitemap.xml
