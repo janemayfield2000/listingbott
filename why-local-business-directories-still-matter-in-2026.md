@@ -2,8 +2,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Why Local Business Directories Still Matter in 2026 (and How to Use Them Without Wasting Time)</title>
-    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+   
   </head>
   <body style="background-color: #0d0d0d; margin: 0;">
 
